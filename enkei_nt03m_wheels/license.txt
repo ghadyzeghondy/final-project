@@ -1,0 +1,11 @@
+Model Information:
+* title:	Enkei Nt03+m Wheels
+* source:	https://sketchfab.com/3d-models/enkei-nt03m-wheels-6d31c56557b945a5abd4015884461dc4
+* author:	flathat3d (https://sketchfab.com/flathat3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Enkei Nt03+m Wheels" (https://sketchfab.com/3d-models/enkei-nt03m-wheels-6d31c56557b945a5abd4015884461dc4) by flathat3d (https://sketchfab.com/flathat3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
