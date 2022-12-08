@@ -1,0 +1,11 @@
+Model Information:
+* title:	Elevator_Front
+* source:	https://sketchfab.com/3d-models/elevator-front-fbe7575fa28244e7a9d69292c3b5ed4a
+* author:	Lena Pauly (https://sketchfab.com/LenaPauly)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Elevator_Front" (https://sketchfab.com/3d-models/elevator-front-fbe7575fa28244e7a9d69292c3b5ed4a) by Lena Pauly (https://sketchfab.com/LenaPauly) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
